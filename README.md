@@ -23,6 +23,7 @@ El dataset cuenta con:
   Variables numéricas continuas: edad, pack_years.
   Variables numéricas discretas: presencia o ausencia de enfermedades (COPD, diabetes, stroke, etc.).
   Fechas importantes: fecha de diagnóstico y fecha de fin del tratamiento.
+  
 
 ## Diccionario del Dataset
 
