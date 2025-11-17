@@ -11,17 +11,22 @@ estamos aportando a la comprensión de una de las enfermedades más mortales en 
 ## Integrantes
 
 - Paula Camelo - Lider del Proyecto
-- Harold Burgos - 
-- Isabella Pensamiento
-- Laura Franco
+
 
 ## Estructura del Dataset
 
 El conjunto de datos utilizado contiene 800.000 registros y 20 columnas, que incluyen información demográfica, clínica y de antecedentes médicos de pacientes diagnosticados con cáncer de pulmón.
 El dataset cuenta con:
   Variables categóricas: género, país, etapa del cáncer, historial familiar, tipo de tratamiento.
+
+  
   Variables numéricas continuas: edad, pack_years.
-  Variables numéricas discretas: presencia o ausencia de enfermedades (COPD, diabetes, stroke, etc.).
+
+  
+  Variables numéricas discretas: presencia o ausencia de enfermedades (COPD, diabetes, stroke, u otras) .
+
+
+  
   Fechas importantes: fecha de diagnóstico y fecha de fin del tratamiento.
   
 
