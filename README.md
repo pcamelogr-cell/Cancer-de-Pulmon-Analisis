@@ -13,6 +13,7 @@ estamos aportando a la comprensión de una de las enfermedades más mortales en 
 - Paula Camelo - Lider del Proyecto
 - Isabella Calderón Pensamiento
 - Laura Valentina Franco Guarumo
+- Harold Andres Burgos Muñoz
 
 
 ## Estructura del Dataset
